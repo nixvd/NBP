@@ -1,0 +1,46 @@
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\Organizacija fakulteta3\FakultetskiOrganizator\bin\Debug\Organizacija fakulteta.exe.config
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\Organizacija fakulteta3\FakultetskiOrganizator\bin\Debug\Organizacija fakulteta.exe
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\Organizacija fakulteta3\FakultetskiOrganizator\bin\Debug\Organizacija fakulteta.pdb
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\Organizacija fakulteta3\FakultetskiOrganizator\bin\Debug\MongoDB.Bson.dll
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\Organizacija fakulteta3\FakultetskiOrganizator\bin\Debug\MongoDB.Driver.Core.dll
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\Organizacija fakulteta3\FakultetskiOrganizator\bin\Debug\MongoDB.Driver.dll
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\Organizacija fakulteta3\FakultetskiOrganizator\bin\Debug\MongoDB.Driver.Legacy.dll
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\Organizacija fakulteta3\FakultetskiOrganizator\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\Organizacija fakulteta3\FakultetskiOrganizator\bin\Debug\MongoDB.Bson.xml
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\Organizacija fakulteta3\FakultetskiOrganizator\bin\Debug\MongoDB.Driver.xml
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\Organizacija fakulteta3\FakultetskiOrganizator\bin\Debug\MongoDB.Driver.Core.xml
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\Organizacija fakulteta3\FakultetskiOrganizator\bin\Debug\MongoDB.Driver.Legacy.xml
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\Organizacija fakulteta3\FakultetskiOrganizator\obj\Debug\FakultetskiOrganizator.csprojAssemblyReference.cache
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\Organizacija fakulteta3\FakultetskiOrganizator\obj\Debug\FakultetskiOrganizator.Form1.resources
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\Organizacija fakulteta3\FakultetskiOrganizator\obj\Debug\FakultetskiOrganizator.PregledPredmeta.resources
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\Organizacija fakulteta3\FakultetskiOrganizator\obj\Debug\FakultetskiOrganizator.PregledProfesora.resources
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\Organizacija fakulteta3\FakultetskiOrganizator\obj\Debug\FakultetskiOrganizator.PregledStudenata.resources
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\Organizacija fakulteta3\FakultetskiOrganizator\obj\Debug\Organizacija_fakulteta.Properties.Resources.resources
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\Organizacija fakulteta3\FakultetskiOrganizator\obj\Debug\FakultetskiOrganizator.csproj.GenerateResource.cache
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\Organizacija fakulteta3\FakultetskiOrganizator\obj\Debug\FakultetskiOrganizator.csproj.CoreCompileInputs.cache
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\Organizacija fakulteta3\FakultetskiOrganizator\obj\Debug\FakultetskiOrganizator.csproj.CopyComplete
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\Organizacija fakulteta3\FakultetskiOrganizator\obj\Debug\Organizacija fakulteta.exe
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\Organizacija fakulteta3\FakultetskiOrganizator\obj\Debug\Organizacija fakulteta.pdb
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\FakultetskiOrganizator\FakultetskiOrganizator\bin\Debug\Organizacija fakulteta.exe.config
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\FakultetskiOrganizator\FakultetskiOrganizator\bin\Debug\Organizacija fakulteta.exe
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\FakultetskiOrganizator\FakultetskiOrganizator\bin\Debug\Organizacija fakulteta.pdb
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\FakultetskiOrganizator\FakultetskiOrganizator\bin\Debug\MongoDB.Bson.dll
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\FakultetskiOrganizator\FakultetskiOrganizator\bin\Debug\MongoDB.Driver.Core.dll
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\FakultetskiOrganizator\FakultetskiOrganizator\bin\Debug\MongoDB.Driver.dll
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\FakultetskiOrganizator\FakultetskiOrganizator\bin\Debug\MongoDB.Driver.Legacy.dll
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\FakultetskiOrganizator\FakultetskiOrganizator\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\FakultetskiOrganizator\FakultetskiOrganizator\bin\Debug\MongoDB.Bson.xml
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\FakultetskiOrganizator\FakultetskiOrganizator\bin\Debug\MongoDB.Driver.xml
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\FakultetskiOrganizator\FakultetskiOrganizator\bin\Debug\MongoDB.Driver.Core.xml
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\FakultetskiOrganizator\FakultetskiOrganizator\bin\Debug\MongoDB.Driver.Legacy.xml
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\FakultetskiOrganizator\FakultetskiOrganizator\obj\Debug\FakultetskiOrganizator.csprojAssemblyReference.cache
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\FakultetskiOrganizator\FakultetskiOrganizator\obj\Debug\FakultetskiOrganizator.Form1.resources
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\FakultetskiOrganizator\FakultetskiOrganizator\obj\Debug\FakultetskiOrganizator.PregledPredmeta.resources
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\FakultetskiOrganizator\FakultetskiOrganizator\obj\Debug\FakultetskiOrganizator.PregledProfesora.resources
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\FakultetskiOrganizator\FakultetskiOrganizator\obj\Debug\FakultetskiOrganizator.PregledStudenata.resources
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\FakultetskiOrganizator\FakultetskiOrganizator\obj\Debug\Organizacija_fakulteta.Properties.Resources.resources
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\FakultetskiOrganizator\FakultetskiOrganizator\obj\Debug\FakultetskiOrganizator.csproj.GenerateResource.cache
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\FakultetskiOrganizator\FakultetskiOrganizator\obj\Debug\FakultetskiOrganizator.csproj.CoreCompileInputs.cache
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\FakultetskiOrganizator\FakultetskiOrganizator\obj\Debug\FakultetskiOrganizator.csproj.CopyComplete
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\FakultetskiOrganizator\FakultetskiOrganizator\obj\Debug\Organizacija fakulteta.exe
+Z:\SHABALABA DING DONG\fucks\Napredne baze podataka\projEkat\Organizacija_fakulteta3\FakultetskiOrganizator\FakultetskiOrganizator\obj\Debug\Organizacija fakulteta.pdb

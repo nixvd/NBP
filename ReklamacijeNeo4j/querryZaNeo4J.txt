@@ -1,0 +1,17 @@
+CREATE
+(ko:Korisnik {Ime:'imeKorisnika',Prezime:'prezimeKorisnika',IdKorisnika:'sifraKorisnika'}), 
+(a:Adresa {Broj:'broj',Ulica:'ulicaNaziv'}), 
+(s:Serviser {ImeServisera:'imeServisera',PrezimeServisera:'prezimeServisera'}), (rek:Reklamacija {DatumPrijave:'datumPrijave',DatumZavrsetka:'datumZavrsetka'}), 
+(p:Prioritet {NazivPrioriteta:'prioritetNaziv'}), 
+(u:Usluga {NazivUsluge:'uslugaNaziv'}), 
+(kv:Kvar {NazivKvara:'kvarNaziv'}), 
+(reo:Reon {Naziv:'reonNaziv'}), 
+(k)-[:ZIVI_U]->(a) ,
+(rek)-[:IMAIMA]->(p) ,
+(a)-[:JE_U]->(reo) ,
+(rek)-[:JE_ZA]->(u) ,
+(kv)-[:NA]->(u) ,
+(k)-[:OSTAVLJA]->(rek) ,
+(s)-[:RESIO]->(rek) ,
+(rek)-[:SADRZI]->(kv) 
+RETURN ko;
